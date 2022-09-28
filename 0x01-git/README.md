@@ -1,1 +1,1 @@
-This is a new directory
+This is a new git directory
